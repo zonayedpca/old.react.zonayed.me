@@ -1,6 +1,7 @@
 {
   "short_name": "Learn React",
   "name": "Learn React with Zonayed - zonayed.me",
+  "start_url": "/",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,7 +21,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "./index.html",
+  "start_url": "./",
   "display": "standalone",
   "theme_color": "#61dafb",
   "background_color": "#282c34"
